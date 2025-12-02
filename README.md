@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Soma 👋
 
-<!--
-**sbenf999/sbenf999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and the Lead DevOps Engineer at **UEA Innovators**.
 
-Here are some ideas to get you started:
+### Skills
+- Languages: Python, Java, JavaScript, C#, SQL  
+- Full Stack: Frontend + Backend development  
+- DevOps: CI/CD, automation, cloud tooling, infrastructure management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+I build and maintain scalable systems, develop end-to-end applications, and streamline engineering workflows through DevOps best practices.
+
+### Contact
+- Email: somaaab@icloud.com or sbenf999@outlook.com
+- LinkedIn: https://www.linkedin.com/in/soma-benfell-839848380/
