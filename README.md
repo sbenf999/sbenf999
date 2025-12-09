@@ -1,6 +1,6 @@
 # Hi, i'm Soma 👋
 
-I'm a full-stack developer and the Lead DevOps Engineer at **UEA Innovators**.
+I'm a full-stack developer and Lead DevOps Engineer at **UEA Innovators**.
 
 ### Skills
 - Languages: Python, Java, JavaScript, C#, SQL  
