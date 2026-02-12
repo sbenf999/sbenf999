@@ -1,4 +1,4 @@
-# Hi, i'm Soma 👋
+# Hi, i'm Soma!
 
 I'm a full-stack developer and Lead DevOps Engineer at UEA Innovators.
 
